@@ -1,5 +1,6 @@
 # journal-template
 This is a lightweight Jekyll and GitHub Pages template.
+
 It provides a structure for writing daily notes, reflections, study logs, and developer insights.
 
 ## Features
