@@ -1,5 +1,5 @@
 title: "Journal Template"
-email: ""
+author: "<your-name>"
 description: "Journal template built with Jekyll and GitHub Pages."
 baseurl: "" # If you host at username.github.io/repo set "/repo"
 url: "https://<your-username>.github.io" # change after creating
