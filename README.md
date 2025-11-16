@@ -40,7 +40,7 @@ Write your dev notes, insights, reflections.
 ```
 
 ## How to use
-1. Add your entries under /_posts.
+1. Add your entries under `/_posts`.
 2. Commit or open a PR.
 3. GitHub Pages deploys automatically.
 
