@@ -1,0 +1,12 @@
+<meta charset="UTF-8">
+<script>
+    // Apply theme saved immediately
+    (function () {
+        const saved = localStorage.getItem("theme");
+        const theme = saved || "theme-light";
+
+        const root = document.documentElement;
+        root.classList.add(theme);
+    })();
+</script>
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
