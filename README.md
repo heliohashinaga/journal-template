@@ -9,11 +9,11 @@ It provides a structure for writing daily notes, reflections, study logs, and de
 - GitHub Pages auto-deploy
 
 ## Quick Start
-1. Fork this repository
-2. Configure the `_confing.yml`
-3. Add your journal entries ynder `_post` in `YYYY-MM-DD-title.md` format
-4. Open a Pull Request to `main`
-5. GitHub Pages will publish your site automatically
+1. Fork this repository.
+2. Configure the `_config.yml`.
+3. Add your journal entries ynder `_post` in `YYYY-MM-DD-title.md` format.
+4. Open a Pull Request to `main`.
+5. GitHub Pages will publish your site automatically.
 
 ## Folder Structure
 ```
@@ -35,7 +35,6 @@ It provides a structure for writing daily notes, reflections, study logs, and de
 - Tag Topics are Markdown files under `_tags/`.
 - Tag Topics in `tag-topic-name.md` format.
 - Use YAML front matter with `tag`.
-
 
 ## Post
 ### Example Post
